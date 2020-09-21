@@ -1,0 +1,34 @@
+@charset "EUC-KR";
+
+img {
+	display : block;
+	margin-left : auto; 
+	margin-right : auto;
+}
+
+table {
+	margin-left : auto; 
+	margin-right : auto;
+	border : 1px solid;
+    border-collapse : collapse;
+}
+
+td {
+	border : 1px solid;
+    border-collapse : collapse;
+}
+
+.center {
+	text-align : center;
+	background-color : #ececec;
+}
+
+.contents {
+	text-align : center;
+	font-weight : bold;
+	background-color : #ececec;
+}
+
+input.imageAlign {
+	vertical-align:middle;
+}

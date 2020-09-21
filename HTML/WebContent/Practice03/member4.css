@@ -1,0 +1,24 @@
+@charset "EUC-KR";
+
+img {
+	display : block;
+	margin-left : auto; 
+	margin-right : auto;
+}
+
+table {
+	margin-left : auto; 
+	margin-right : auto;
+	width : 600px;
+	height : 200px;
+	text-align : center;
+}
+
+.first {
+	background-color : #ffdab9;
+}
+
+.second {
+	background-color : #ffefd5;
+	height : 300px;
+}
